@@ -1,4 +1,6 @@
 # CNCF Security Technical Advisory Group
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRana-KV%2Ftag-security.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRana-KV%2Ftag-security?ref=badge_shield)
+
 
 <!-- cspell:disable -->
 <!-- markdownlint-disable-next-line MD033 MD013 -->
@@ -229,3 +231,7 @@ with a
 
 For more details on past events and meetings, please see
 our [past events page](past-events.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRana-KV%2Ftag-security.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FRana-KV%2Ftag-security?ref=badge_large)
